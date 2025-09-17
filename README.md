@@ -31,7 +31,7 @@ This project is designed to be run as a Docker container for maximum security an
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Shreyas1860/Network_honeypot/
-    cd your_repository
+    cd Network_honeypot
     ```
 
 2.  **Build the Docker image:**
